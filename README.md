@@ -1,9 +1,9 @@
 zohax
 =====
 
-Zohax is a RubyGem for connecting to the Zoho CRM. The gem is in very early days!
+Zohax is a RubyGem for connecting to the Zoho CRM. The gem is still in development and not yet operational.
 
-Feel free to fork and make pull requests. All methods must be tested before a pull requests so I know nothing else is going to break.
+Fork and make pull requests as you wish.
 
 ## Installation
 
@@ -15,4 +15,4 @@ Then run the following command to install:
 
     bundle install
 
-That's it!
+#madeinFLL #FLLtech
